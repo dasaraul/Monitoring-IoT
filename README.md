@@ -1,6 +1,6 @@
 # Dashboard Monitoring Server IoT
 
-![ServerMonitor](https://api.placeholder.com/820/300)
+![ServerMonitor](https://github.com/dasaraul/Monitoring-IoT/blob/main/images/monitor.png?raw=true)
 
 ## 📊 Gambaran Umum
 
